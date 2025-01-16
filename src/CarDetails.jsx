@@ -1,4 +1,4 @@
-
+import PropTypes from 'prop-types';
 
 function CarDetails({ car }) {
     const {title, brand, year, price, isPremium} = car;
@@ -13,6 +13,14 @@ function CarDetails({ car }) {
   )
 }
 
+CarDetails.propTypes = {
+    car: PropTypes.object.isRequired,
+    title: PropTypes.string.isRequired,
+    brand: PropTypes.string.isRequired,
+    year: PropTypes.number.isRequired,
+    price: PropTypes.number.isRequired,
+    isPremium: PropTypes.bool.isRequired
+};
 
 
 export default CarDetails;
