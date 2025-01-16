@@ -13,4 +13,6 @@ function CarDetails({ car }) {
   )
 }
 
+
+
 export default CarDetails;
