@@ -2,9 +2,10 @@
 
 function CheckBox() {
   return (
-    <div>
-        CheckBox
-    </div>
+    <form>
+        <input className="mr-2" type="checkbox" />
+        <label>Show Premium Only</label>
+    </form>
   )
 }
 
