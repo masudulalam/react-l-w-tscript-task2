@@ -1,11 +1,12 @@
+import TapaScriptCar from "./TapaScriptCar"
 
 
 function App() {
   
 
   return (
-    <div className="text-3xl font-bold">
-      Car Project
+    <div className="">
+      <TapaScriptCar />
     </div>
   )
 }
