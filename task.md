@@ -7,8 +7,11 @@ Component Breakdown diagram:
 <img width="1421" alt="Component- -Breakdown- diagram-Screenshot" src="https://github.com/user-attachments/assets/e6f020a0-7fea-4ab7-ad5d-03768f2f8c55" />
 
 Component Hierarchy diagram: 
+<img width="702" alt="Component- -Hierarchy- diagram-Screenshot" src="https://github.com/user-attachments/assets/5c8d3530-c510-4660-bacf-9f74abbafa50" />
 
 Dev Tools Screenshot:  
+<img width="439" alt="React-Dev-Tools-Screenshot" src="https://github.com/user-attachments/assets/d4be70d6-ebc6-4186-a7ae-575dfe1debb8" />
+
 
 Deploy link of the app: https://splendid-griffin-8f667e.netlify.app/
 
