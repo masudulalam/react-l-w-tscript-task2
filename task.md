@@ -9,7 +9,7 @@ Component Breakdown diagram:
 Component Hierarchy diagram: 
 
 Dev Tools Screenshot: 
-<img width="439" alt="React-Dev-Tools-Screenshot" src="https://github.com/user-attachments/assets/b55c8eea-d481-499e-a205-935bdc691f51" />
+
 
 
 Deploy link of the app: https://splendid-griffin-8f667e.netlify.app/
